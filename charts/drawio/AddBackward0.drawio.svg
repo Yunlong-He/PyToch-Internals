@@ -1,0 +1,120 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="391px" height="274px" viewBox="-0.5 -0.5 391 274" content="&lt;mxfile&gt;&lt;diagram id=&quot;g3q4upTWshLf2XEmPz2M&quot; name=&quot;Page-1&quot;&gt;7VlNb+M2EP01BtpDA1OyZecY25v2kC2CZoF2TwIjjiViKVKl6NjeX9+hRH1Zdqw63j05MALxcYbizHvDD3vkL9Pd75pmyWfFQIy8MduN/NXI8+ZegP8tsC+BYOyAWHNWQqQBXvh3cODYoRvOIO8YGqWE4VkXjJSUEJkORrVW267ZWonuWzMaQw94iajoo39zZpIqrFmD/wE8Tqo3k+C+7ElpZewiyRPK1LYF+Z9G/lIrZcqndLcEYXNX5aX0ezzRW09MgzRDHLzS4Y2KjYvtTyRrZAnyMdv+wk3T7KvY8y1PBZXYWqyVNC+uh2CbCh5LfI7w5aAReANtOKbtwXUYlSEaJVywJ7pXGzvF3NDoW9VaJErz7zgsFW5M7NbGKQBn1bZ4sZ4I22lqyNHmuYqbHECf6a5j+ERz44BICUGznL/WYaRUx1wulDEqdUYuSxgO7E5mmtT8oe5BpWD0Hk2cQ8X4vtKEa28bAZHAYUlLPN7MgdSJNq6HbnjFB0ftcZr9Hs05/LsBGUEoddiiGxkSKracHXQkNA/LYNsol9nGhDgdyqih7R4JOxMCiyHvDJ9ooCzkrA2mG8xq2BMagqYQgFbfYKmEQkWtpCqVx4U4gCrxCVibk9LLMxpxGT8VNqtJg/zlEm4hhb5rUVRlwhkDaWWjDAZYasTOOVNcmoKQ6QI/SNFyfDcdTXHiS2yTpo0fa67NUkmMhfJCLoAC3IIV4TBtece15cRUrafntETI5ONamvS01KNO8IKSkrpqhSQX8ZYiAwIaor5YHle/kR6Zfp9M/whxgr6CeFY5N1zZ8XVpe0DoT+CMTAYuAPOPUzbtUaYy0NQo/cuvrUKkDEuzU9Gd7hxMWJf16Z68N6YEc8xrk+ErIMTKVM2a03XOMrHvIEhGBCysO25rxuX6mw9cNKoC/4gCg54Cv1gmbXYeNzIqivF20rjSSWN64VHDv8LuML/tDsM4DK6yo19hc6jU0aLsgbEFKn5LNRv36LuV5XXK0vMHliWZXuEGQMiRK4BYhzmyQ3Vo9ln71qdMAvpEHxVZQm8777tCGB9Xwv8s7ukV1mPSv+HfFuRLSJv/vOM66V/XJU3hzNFYg8CQIXyjmtsM5rca/QjdA0/HwRUOx2TAlRoke7DfXGLrVSi77S0QcvsiCcrmI7fvKNKZmLTaQWHHzT8Ots9f7TOmsmytdq2u1b5qSIyhcLq7v/cqoPQcBzXQOBetjvczaI6psOeA1hZqb4Hvb6AYttroCFrHJG+Mh4AY3r/XHGMKa4Ia/tZ94zGq3HDPVoTt7+y6W7bvH+zE5UydV/tr1oOB/ODMQGV8vYEK5dQxDhNT/7L/Q8RUC+hrWz/nxDRtS4mckdFliqnOs23JnDhs/wjJHDBN/NllkiHz+d0MBVj/+QfjBnezyZVEhM3mJ4fSvPndxv/0Hw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-31-152-114-0">
+            <rect x="4" y="31" width="152" height="114"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-153-152-122-0">
+            <rect x="4" y="153" width="152" height="122"/>
+        </clipPath>
+        <clipPath id="mx-clip-234-151-152-54-0">
+            <rect x="234" y="151" width="152" height="54"/>
+        </clipPath>
+        <clipPath id="mx-clip-234-213-152-62-0">
+            <rect x="234" y="213" width="152" height="62"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 0 26 L 0 0 L 160 0 L 160 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 270 L 160 270 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 160 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="17.5">
+                Node
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-31-152-114-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                sequence_nr_
+            </text>
+            <text x="5.5" y="57.5">
+                toplogical_nr_
+            </text>
+            <text x="5.5" y="71.5">
+                has_parent_
+            </text>
+            <text x="5.5" y="85.5">
+                input_metadata_
+            </text>
+            <text x="5.5" y="99.5">
+                next_edges_
+            </text>
+            <text x="5.5" y="113.5">
+                thread_id_
+            </text>
+            <text x="5.5" y="127.5">
+                mutex_
+            </text>
+        </g>
+        <path d="M 0 144 L 160 144" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-153-152-122-0)" font-size="12px">
+            <text x="5.5" y="165.5">
+                operator()
+            </text>
+            <text x="5.5" y="179.5">
+                add_input_metadata()
+            </text>
+            <text x="5.5" y="193.5">
+                set_next_edge()
+            </text>
+            <text x="5.5" y="207.5">
+                set_next_edges()
+            </text>
+            <text x="5.5" y="221.5">
+                add_netxt_edge()
+            </text>
+            <text x="5.5" y="235.5">
+                update_topological_nr()
+            </text>
+            <text x="5.5" y="249.5">
+                apply()
+            </text>
+            <text x="5.5" y="263.5">
+                traced_apply()
+            </text>
+        </g>
+        <path d="M 230 26 L 230 0 L 390 0 L 390 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 26 L 230 34 L 390 34 L 390 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 26 L 390 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="309.5" y="17.5">
+                TraceableFunction
+            </text>
+        </g>
+        <path d="M 230 30 L 390 30" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 146 L 230 120 L 390 120 L 390 146" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 146 L 230 270 L 390 270 L 390 146" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 230 146 L 390 146" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="309.5" y="137.5">
+                AddBackward0
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-234-151-152-54-0)" font-size="12px">
+            <text x="235.5" y="163.5">
+                self_scalar_type
+            </text>
+            <text x="235.5" y="177.5">
+                other_scalar_type
+            </text>
+            <text x="235.5" y="191.5">
+                alpha
+            </text>
+        </g>
+        <path d="M 230 204 L 390 204" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-234-213-152-62-0)" font-size="12px">
+            <text x="235.5" y="225.5">
+                name()
+            </text>
+            <text x="235.5" y="239.5">
+                apply()
+            </text>
+            <text x="235.5" y="253.5">
+                release_variables
+            </text>
+        </g>
+        <path d="M 230 17 L 176.84 16.81" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 159.84 16.74 L 176.87 8.31 L 176.81 25.31 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 310 120 L 310 52.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 310 35.12 L 318.5 52.12 L 301.5 52.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>
